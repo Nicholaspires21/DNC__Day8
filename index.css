@@ -55,6 +55,10 @@ input {
   border-radius: 10px;
 }
 
+input::placeholder {
+  color: #fff;
+}
+
 .input__name {
   margin-top: 4rem;
   margin-bottom: 1rem;
